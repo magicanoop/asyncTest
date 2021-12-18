@@ -14,3 +14,5 @@ foreach ($things as $thing) {
 }
 
 $pool->wait();
+
+// commented by Anoop
